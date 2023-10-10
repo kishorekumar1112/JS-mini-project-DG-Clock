@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+body{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(162,72,200,1) 15%, rgba(0,212,255,1) 79%);
+}
+.container{
+    margin-top: 21%;
+    border: 2px dotted ;
+    border-color: white;
+    padding: 3px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#wrapper{
+    color: white ;
+    font-size: 40px;
+    font-weight: 10px;
+}
